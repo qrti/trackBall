@@ -1,7 +1,7 @@
 # **trackBall**
 
 ### A Trackball connected to PC with RP2040 Pico
-(via USB as HID-Device without need of extra drivers = Plug and Play)
+via USB as HID-Device without need of extra drivers = Plug and Play
 
 <br>
 
